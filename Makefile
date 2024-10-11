@@ -1,14 +1,14 @@
 # Define variables for username, repository, and tag
 USERNAME=shaharalaila
 IMAGE_NAME=welcome-app
-TAG=0.0.1
+TAG=1.0.3
 
 # Default target to build and push Docker image
 all: build push
 
 # Docker build target
 build:
-	docker build -t $(USERNAME)/$(IMAGE_NAME):$(TAG) .
+	docker build -t $(USERNAME)/$(IMAGE_NAME):$(TAG) . --no-cache
 
 # Docker push target
 push:
