@@ -3,4 +3,4 @@ services:
   web:
     image: shaharalaila/welcome-app:1.0.3
     ports:
-      - "5003:5003"
+      - "5000:5000"
