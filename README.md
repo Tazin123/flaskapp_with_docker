@@ -50,7 +50,7 @@ Steps:
 1. Now set host and port address and run this
 2. Create  Dockerfile
 
-![image.png](https://boom-dosa-7aa.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9f04fa16-9d5d-49ed-8d00-46245484e5af%2F9c66b882-a90b-4d01-a45e-8423eef81dee%2Fimage.png?table=block&id=11ce9bea-0b79-804b-bf31-e5d3624a6e03&spaceId=9f04fa16-9d5d-49ed-8d00-46245484e5af&width=1420&userId=&cache=v2)
+![image.png](https://boom-dosa-7aa.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F9f04fa16-9d5d-49ed-8d00-46245484e5af%2F06e565c8-d792-426d-bc98-6decfd70b15f%2Fimage.png?table=block&id=11de9bea-0b79-804f-9176-c27097cca06a&spaceId=9f04fa16-9d5d-49ed-8d00-46245484e5af&width=2000&userId=&cache=v2)
 
 1. Build the Docker Image
 
